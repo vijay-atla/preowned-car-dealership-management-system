@@ -56,4 +56,12 @@ git clone https://github.com/vijay-atla/preowned-car-dealership-management-syste
 
 
 
+- 2. **Navigate to the project directory:**
 
+```bash
+cd preowned-car-dealership-management-system
+
+
+- 3. **Install dependencies:**
+```bash
+pip install -r requirements.txt
