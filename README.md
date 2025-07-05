@@ -93,3 +93,6 @@ python main.py
 ---
 
 ## 📸 Screenshots
+
+![alt text](Home_Page.jpg)
+
