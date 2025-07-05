@@ -96,3 +96,46 @@ python main.py
 
 ![alt text](Home_Page.jpg)
 
+
+
+![alt text](Admin_Dashboard_Page.jpg)
+
+
+
+![alt text](Customer_Dashboard_page.jpg)
+
+
+
+![alt text](Signup_Page.jpg)
+
+
+
+![alt text](Login_Page.jpg)
+
+
+
+![alt text](Customer_Browse_Cars_Page.jpg)
+
+
+
+![alt text](Customer_View_car_Page.jpg)
+
+
+
+![alt text](Admin_Reports&Analytics_Page.jpg)
+
+
+
+
+---
+
+## 👤 Author
+
+- Vijay Atla
+Graduate Student, MSIS
+Central Michigan University
+
+## 📝 License
+
+- This project was developed for educational purposes as part of BIS698 at CMU. Feel free to fork and customize for learning and academic demonstrations.
+
