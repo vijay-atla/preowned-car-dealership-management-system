@@ -55,13 +55,3 @@ Small used car dealerships often rely on **manual processes** for managing their
 git clone https://github.com/vijay-atla/preowned-car-dealership-management-system.git
 
 
-
-### 2. **Navigate to the project directory:**
-
-```bash
-cd preowned-car-dealership-management-system
-
-
-- 3. **Install dependencies:**
-```bash
-pip install -r requirements.txt
