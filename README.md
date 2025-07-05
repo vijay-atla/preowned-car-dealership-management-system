@@ -132,7 +132,9 @@ python main.py
 ## 👤 Author
 
 - Vijay Atla
+
 Graduate Student, MSIS
+
 Central Michigan University
 
 ## 📝 License
