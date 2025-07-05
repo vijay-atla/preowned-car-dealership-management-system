@@ -55,3 +55,37 @@ Small used car dealerships often rely on **manual processes** for managing their
 git clone https://github.com/vijay-atla/preowned-car-dealership-management-system.git
 
 
+```
+
+2. **Navigate to the project directory:**
+
+```bash
+cd preowned-car-dealership-management-system
+
+```
+
+3. **Install dependencies:**
+
+```bash
+pip install -r requirements.txt
+```
+
+4. **Configure database connection:**
+
+Update db_config in database_utils.py with your MySQL credentials.
+
+```bash
+db_config = {
+  'host': 'your_host',
+  'user': 'your_user',
+  'password': 'your_password',
+  'database': 'your_database'
+}
+
+```
+5. **Run the application:**
+
+```bash
+python main.py
+
+```
