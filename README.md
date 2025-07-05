@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 4. **Configure database connection:**
 
-Update db_config in database_utils.py with your MySQL credentials.
+- Update db_config in database_utils.py with your MySQL credentials.
 
 ```bash
 db_config = {
@@ -89,3 +89,7 @@ db_config = {
 python main.py
 
 ```
+
+---
+
+## 📸 Screenshots
