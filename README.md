@@ -94,35 +94,35 @@ python main.py
 
 ## 📸 Screenshots
 
-![alt text](Home_Page.jpg)
+![alt text](Screenshots/Home_Page.jpg)
 
 
 
-![alt text](Admin_Dashboard_Page.jpg)
+![alt text](Screenshots/Admin_Dashboard_Page.jpg)
 
 
 
-![alt text](Customer_Dashboard_page.jpg)
+![alt text](Screenshots/Customer_Dashboard_page.jpg)
 
 
 
-![alt text](Signup_Page.jpg)
+![alt text](Screenshots/Signup_Page.jpg)
 
 
 
-![alt text](Login_Page.jpg)
+![alt text](Screenshots/Login_Page.jpg)
 
 
 
-![alt text](Customer_Browse_Cars_Page.jpg)
+![alt text](Screenshots/Customer_Browse_Cars_Page.jpg)
 
 
 
-![alt text](Customer_View_car_Page.jpg)
+![alt text](Screenshots/Customer_View_car_Page.jpg)
 
 
 
-![alt text](Admin_Reports&Analytics_Page.jpg)
+![alt text](Screenshots/Admin_Reports&Analytics_Page.jpg)
 
 
 
